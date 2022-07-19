@@ -1,0 +1,1028 @@
+[2022-07-19 14:24:15][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] Starup...
+[2022-07-19 14:24:15][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 1	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-19 14:24:15][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-20 09:00:00
+[2022-07-19 14:24:15][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 2	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-19 14:24:15][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-20 09:00:00
+[2022-07-19 14:24:15][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 3	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-19 14:24:15][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-20 09:00:00
+[2022-07-19 14:24:15][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 4	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-19 14:24:15][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-20 09:00:00
+[2022-07-19 14:24:15][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] current jobs : 4
+[2022-07-19 13:59:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] System time changed, restartup scheduler : 2022-07-19 13:59:00
+[2022-07-19 13:59:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-20 09:00:00
+[2022-07-19 13:59:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] current jobs : 4
+[2022-07-19 13:59:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-20 09:00:00
+[2022-07-19 13:59:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-20 09:00:00
+[2022-07-19 13:59:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] System time changed, restartup scheduler : 2022-07-19 13:59:00
+[2022-07-19 13:59:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-20 09:00:00
+[2022-07-19 13:59:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] current jobs : 4
+[2022-07-19 13:59:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-20 09:00:00
+[2022-07-19 13:59:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-20 09:00:00
+[2022-07-15 13:59:16][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] System time changed, restartup scheduler : 2022-07-15 13:59:16
+[2022-07-15 13:59:16][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] current jobs : 4
+[2022-07-15 13:59:16][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:59:16][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:59:16][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] System time changed, restartup scheduler : 2022-07-15 13:59:16
+[2022-07-15 13:59:16][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] current jobs : 4[Í2022-07-15 13:59:16][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:59:16][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] [2022-07-15 13:59:52][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] Starup...
+[2022-07-15 13:59:52][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 1	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:59:52][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-17 09:00:00
+[2022-07-15 13:59:52][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 2	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:59:52][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 23:59:59
+[2022-07-15 13:59:52][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 3	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:59:52][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:59:52][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 4	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:59:52][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] [2022-07-15 14:00:33][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] Starup...
+[2022-07-15 14:00:33][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 1	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 14:00:33][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-17 09:00:00
+[2022-07-15 14:00:33][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 2	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 14:00:33][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 23:59:59
+[2022-07-15 14:00:33][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 3	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 14:00:33][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 22:22:22
+[2022-07-15 14:00:33][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 4	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-19 14:28:54][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] name : Job-3: Thu, Sta of weekly at 22:22:22
+[2022-07-19 14:28:54][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] name : Job-2: Thu, Sta of weekly at 23:59:59
+[2022-07-19 14:28:54][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] name : Job-1: Mon, Tue, Wed, Fri, Sun of weekly at 09:00:00
+[2022-07-19 14:28:54][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] current jobs : [2022-07-19 14:28:544][Logger::Stream][F:\persona
+l\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] [2022-07-19 14:29:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] Starup...
+[2022-07-19 14:29:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 1	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-19 14:29:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-20 09:00:00
+[2022-07-19 14:29:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 2	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-19 14:29:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-20 09:00:00
+[2022-07-19 14:29:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 3	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-19 14:29:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-20 09:00:00
+[2022-07-19 14:29:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 4	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-19 14:29:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] current jobs : 4
+[2022-07-19 14:29:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] [2022-07-19 14:29:54][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] Starup...
+[2022-07-19 14:29:54][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 1	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-19 14:29:54][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-20 09:00:00
+[2022-07-19 14:29:54][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-20 09:00:00
+[2022-07-19 14:29:54][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 2	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-19 14:29:54][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-20 09:00:00
+[2022-07-19 14:29:54][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 3	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-19 14:29:54][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-20 09:00:00
+[2022-07-19 14:29:54][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 4	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-19 14:29:56][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-20 09:00:00
+[2022-07-19 14:29:56][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] current jobs : 4
+[2022-07-15 13:59:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] System time changed, restartup scheduler : 2022-07-15 13:59:00
+[2022-07-15 13:59:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-17 09:00:00
+[2022-07-15 13:59:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] current jobs : [42022-07-15 13:5
+9:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:59:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:59:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] System time changed, restartup scheduler : 2022-07-15 13:59:00
+[2022-07-15 13:59:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] current jobs : 4
+[2022-07-15 13:59:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:59:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:50:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] System time changed, restartup scheduler : 2022-07-15 13:50:00
+[2022-07-15 13:50:15][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] current jobs : [2022-07-15 13:50:15][Logger::Stream][4F:\persona
+l\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:50:15][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] System time changed, restartup scheduler : 2022-07-15 13:50:15
+[2022-07-15 13:50:15][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:50:16][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] current jobs : 4[
+2022-07-15 13:50:16][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:50:16][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:50:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] System time changed, restartup scheduler : 2022-07-15 13:50:00
+[2022-07-15 13:50:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] current jobs : 4
+[2022-07-15 13:50:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:50:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:50:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] System time changed, restartup scheduler : 2022-07-15 13:50:00
+[2022-07-15 13:50:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] current jobs : 4
+[2022-07-15 13:50:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:50:00][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] [2022-07-15 13:52:22][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] Starup...
+[2022-07-15 13:52:22][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 1	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:52:22][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-17 09:00:00
+[2022-07-15 13:52:22][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-17 09:00:00
+[2022-07-15 13:52:22][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 2	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:52:22][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 23:59:59
+[2022-07-15 13:52:22][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 3	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:52:22][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:52:22][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 4	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:52:22][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] [2022-07-15 13:52:28][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] Starup...
+[2022-07-15 13:52:28][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 1	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:52:28][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-17 09:00:00
+[2022-07-15 13:52:28][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] [2022-07-15 13:53:27][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] Starup...
+[2022-07-15 13:53:27][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 1	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:53:27][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-17 09:00:00
+[2022-07-15 13:53:27][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 2	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:53:27][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 23:59:59
+[2022-07-15 13:53:27][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 3	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:53:27][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:53:27][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 4	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:53:27][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] [2022-07-15 13:54:44][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] Starup...
+[2022-07-15 13:54:44][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 1	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:54:44][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-17 09:00:00
+[2022-07-15 13:54:44][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] [2022-07-15 13:55:56][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] Starup...
+[2022-07-15 13:55:58][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 1	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:56:01][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-17 09:00:00
+[2022-07-15 13:56:03][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 2	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:56:03][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 23:59:59
+[2022-07-15 13:56:05][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 3	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:56:05][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:56:05][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 4	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:56:05][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] [2022-07-15 13:56:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] Starup...
+[2022-07-15 13:56:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 1	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:56:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-17 09:00:00
+[2022-07-15 13:56:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 2	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:56:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 23:59:59
+[2022-07-15 13:56:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 3	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:56:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:56:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 4	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:56:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 5	 valid : 1	 enable : 1	 repeated : 0
+[2022-07-15 13:56:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-15 14:00:00
+[2022-07-15 13:56:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] current jobs : 5
+[2022-07-15 13:56:46][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] [2022-07-15 13:56:59][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] Starup...
+[2022-07-15 13:56:59][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 1	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:56:59][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-17 09:00:00
+[2022-07-15 13:56:59][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] [2022-07-15 13:57:03][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] Starup...
+[2022-07-15 13:57:03][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 1	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:57:03][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-17 09:00:00
+[2022-07-15 13:57:03][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-17 09:00:00
+[2022-07-15 13:57:03][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 2	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:57:03][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 23:59:59
+[2022-07-15 13:57:03][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 3	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:57:03][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:57:03][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 4	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:57:03][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] 5	 valid : 1	 enable : 1	 repeated : [2022-07-15 13:57:03][Logge0r::Stream][
+F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] First timepoint : 2022-07-15 14:00:00
+[2022-07-15 13:57:03][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] current jobs : 5[
+2022-07-15 13:57:03][Logger::Stream][F:\personal\open_source\github\cpp\job_scheduler\scheduler\scheduler\logger.h] [Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:56:57 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:56:57 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:56:57 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:56:57 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022]5	 valid : 1	 enable : 1	 repeated : 0
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:56:57 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022]5	 valid : 1	 enable : 1	 repeated : 0
+[Fri Jul 15 13:56:57 2022]in job : 2022-07-19 12:30:00
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:56:57 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022]5	 valid : 1	 enable : 1	 repeated : 0
+[Fri Jul 15 13:56:57 2022]in job : 2022-07-19 12:30:00
+[Fri Jul 15 13:56:57 2022]current jobs : [Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:56:57 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:56:57 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:56:57 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022]5	 valid : [Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:56:57 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022]5	 valid : [Fri Jul 15 13:56:57 2022]1	 enable : 1	 repeated : 0
+First timepoint : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:56:57 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022]5	 valid : [Fri Jul 15 13:56:57 2022]1	 enable : 1	 repeated : 0
+First timepoint : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022]in job : 2022-07-19 12:30:00
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:56:57 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022]5	 valid : [Fri Jul 15 13:56:57 2022]1	 enable : 1	 repeated : 0
+First timepoint : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022]in job : 2022-07-19 12:30:00
+[Fri Jul 15 13:56:57 2022]current jobs : [Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:56:57 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:56:57 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:56:57 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022]5	 valid : [Fri Jul 15 13:56:57 2022]1[Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:56:57 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022]5	 valid : [Fri Jul 15 13:56:57 2022]1	 enable : 1	 repeated : 0
+First timepoint : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:56:57 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022]5	 valid : [Fri Jul 15 13:56:57 2022]1	 enable : 1	 repeated : 0
+First timepoint : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022]in job : 2022-07-19 12:30:00
+[Fri Jul 15 13:56:57 2022][Fri Jul 15 13:56:57 2022]Starup...
+[Fri Jul 15 13:56:57 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:56:57 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:56:57 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:56:57 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:56:57 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022]5	 valid : [Fri Jul 15 13:56:57 2022]1	 enable : 1	 repeated : 0
+First timepoint : 2022-07-15 14:00:00
+[Fri Jul 15 13:56:57 2022]in job : 2022-07-19 12:30:00
+[Fri Jul 15 13:56:57 2022]current jobs : [Fri Jul 15 13:56:57 2022][Fri Jul 15 13:58:13 2022]Starup...
+[Fri Jul 15 13:58:13 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:13 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:58:13 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:13 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:58:13 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:13 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:58:13 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:13 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:58:13 2022]First timepoint : 2022-07-15 14:00:00
+[Fri Jul 15 13:58:13 2022]5	 valid : 1	 enable : 1	 repeated : 0
+[Fri Jul 15 13:58:13 2022]in job : 2022-07-19 12:30:00
+[Fri Jul 15 13:58:13 2022]current jobs : [Fri Jul 15 13:585:13 2022]
+[Fri Jul 15 13:58:13 2022]Starup...
+[Fri Jul 15 13:58:13 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:13 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:58:13 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:13 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:58:13 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:13 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:58:13 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:13 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:58:13 2022][Fri Jul 15 13:58:13 2022]Starup...
+[Fri Jul 15 13:58:13 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:13 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:58:13 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:13 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:58:13 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:13 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:58:13 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:13 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:58:13 2022][Fri Jul 15 13:58:53 2022][Fri Jul 15 13:58:53 2022]Starup...
+[Fri Jul 15 13:58:53 2022][Fri Jul 15 13:58:53 2022]Starup...
+[Fri Jul 15 13:58:53 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022][Fri Jul 15 13:58:53 2022]Starup...
+[Fri Jul 15 13:58:53 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:58:53 2022][Fri Jul 15 13:58:53 2022]Starup...
+[Fri Jul 15 13:58:53 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:58:53 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022][Fri Jul 15 13:58:53 2022]Starup...
+[Fri Jul 15 13:58:53 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:58:53 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:58:53 2022][Fri Jul 15 13:58:53 2022]Starup...
+[Fri Jul 15 13:58:53 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:58:53 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:58:53 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022][Fri Jul 15 13:58:53 2022]Starup...
+[Fri Jul 15 13:58:53 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:58:53 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:58:53 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:58:53 2022][Fri Jul 15 13:58:53 2022]Starup...
+[Fri Jul 15 13:58:53 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:58:53 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:58:53 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:58:53 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022][Fri Jul 15 13:58:53 2022]Starup...
+[Fri Jul 15 13:58:53 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:58:53 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:58:53 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:58:53 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:58:53 2022][Fri Jul 15 13:58:53 2022]Starup...
+[Fri Jul 15 13:58:53 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:58:53 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:58:53 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:58:53 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-15 14:00:00
+[Fri Jul 15 13:58:53 2022][Fri Jul 15 13:58:53 2022]Starup...
+[Fri Jul 15 13:58:53 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:58:53 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:58:53 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:58:53 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-15 14:00:00
+[Fri Jul 15 13:58:53 2022]5	 valid : 1	 enable : 1	 repeated : 0
+[Fri Jul 15 13:58:53 2022][Fri Jul 15 13:58:53 2022]Starup...
+[Fri Jul 15 13:58:53 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:58:53 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:58:53 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:58:53 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-15 14:00:00
+[Fri Jul 15 13:58:53 2022]5	 valid : 1	 enable : 1	 repeated : 0
+[Fri Jul 15 13:58:53 2022]in job : 2022-07-19 12:30:00
+[Fri Jul 15 13:58:53 2022][Fri Jul 15 13:58:53 2022]Starup...
+[Fri Jul 15 13:58:53 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 13:58:53 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 13:58:53 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 13:58:53 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 13:58:53 2022]in job : 2022-07-15 14:00:00
+[Fri Jul 15 13:58:53 2022]First timepoint : 2022-07-15 14:00:00
+[Fri Jul 15 13:58:53 2022]5	 valid : 1	 enable : 1	 repeated : 0
+[Fri Jul 15 13:58:53 2022]in job : 2022-07-19 12:30:00
+[Fri Jul 15 13:58:53 2022]current jobs : [Fri Jul 15 13:58:53 2022][Fri Jul 15 14:00:51 2022][Fri Jul 15 14:00:51 2022]Starup...
+[Fri Jul 15 14:00:51 2022][Fri Jul 15 14:00:51 2022]Starup...
+[Fri Jul 15 14:00:51 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022][Fri Jul 15 14:00:51 2022]Starup...
+[Fri Jul 15 14:00:51 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 14:00:51 2022][Fri Jul 15 14:00:51 2022]Starup...
+[Fri Jul 15 14:00:51 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 14:00:51 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022][Fri Jul 15 14:00:51 2022]Starup...
+[Fri Jul 15 14:00:51 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 14:00:51 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 14:00:51 2022][Fri Jul 15 14:00:51 2022]Starup...
+[Fri Jul 15 14:00:51 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 14:00:51 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 14:00:51 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022][Fri Jul 15 14:00:51 2022]Starup...
+[Fri Jul 15 14:00:51 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 14:00:51 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 14:00:51 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 14:00:51 2022][Fri Jul 15 14:00:51 2022]Starup...
+[Fri Jul 15 14:00:51 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 14:00:51 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 14:00:51 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 14:00:51 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022][Fri Jul 15 14:00:51 2022]Starup...
+[Fri Jul 15 14:00:51 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 14:00:51 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 14:00:51 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 14:00:51 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]5	 valid : [1Fri Jul 15 14:00:51 2022]	 enable : [Fri Jul 15 14:00:51 2022]Starup...
+[Fri Jul 15 14:00:51 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 14:00:51 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 14:00:51 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 14:00:51 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]5	 valid : [1Fri Jul 15 14:00:51 2022]	 enable : 1	 repeated : 0
+First timepoint : 2022-07-16 14:00:00
+[Fri Jul 15 14:00:51 2022][Fri Jul 15 14:00:51 2022]Starup...
+[Fri Jul 15 14:00:51 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 14:00:51 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 14:00:51 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 14:00:51 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]5	 valid : [1Fri Jul 15 14:00:51 2022]	 enable : 1	 repeated : 0
+First timepoint : 2022-07-16 14:00:00
+[Fri Jul 15 14:00:51 2022]in job : 2022-07-19 12:30:00
+[Fri Jul 15 14:00:51 2022][Fri Jul 15 14:00:51 2022]Starup...
+[Fri Jul 15 14:00:51 2022]1	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-17 09:00:00
+[Fri Jul 15 14:00:51 2022]2	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-16 23:59:59
+[Fri Jul 15 14:00:51 2022]3	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]First timepoint : 2022-07-16 22:22:22
+[Fri Jul 15 14:00:51 2022]4	 valid : 1	 enable : 1	 repeated : 1
+[Fri Jul 15 14:00:51 2022]5	 valid : [1Fri Jul 15 14:00:51 2022]	 enable : 1	 repeated : 0
+First timepoint : 2022-07-16 14:00:00
+[Fri Jul 15 14:00:51 2022]in job : 2022-07-19 12:30:00
+[Fri Jul 15 14:00:51 2022]current jobs : [Fri Jul 15 14:00:51 2022]Starup...
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-17 09:00:00
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-17 09:00:00
+2	 valid : 1	 enable : 1	 repeated : 1
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-17 09:00:00
+2	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 23:59:59
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-17 09:00:00
+2	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 23:59:59
+3	 valid : 1	 enable : 1	 repeated : 1
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-17 09:00:00
+2	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 23:59:59
+3	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 22:22:22
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-17 09:00:00
+2	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 23:59:59
+3	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 22:22:22
+4	 valid : 1	 enable : 1	 repeated : 1
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-17 09:00:00
+2	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 23:59:59
+3	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 22:22:22
+4	 valid : 1	 enable : 1	 repeated : 1
+5	 valid : Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-17 09:00:00
+2	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 23:59:59
+3	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 22:22:22
+4	 valid : 1	 enable : 1	 repeated : 1
+5	 valid : 1	 enable : 1	 repeated : 0
+First timepoint : 2022-07-16 14:00:00
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-17 09:00:00
+2	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 23:59:59
+3	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 22:22:22
+4	 valid : 1	 enable : 1	 repeated : 1
+5	 valid : 1	 enable : 1	 repeated : 0
+First timepoint : 2022-07-16 14:00:00
+in job : 2022-07-19 12:30:00
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-17 09:00:00
+2	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 23:59:59
+3	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 22:22:22
+4	 valid : 1	 enable : 1	 repeated : 1
+5	 valid : 1	 enable : 1	 repeated : 0
+First timepoint : 2022-07-16 14:00:00
+in job : 2022-07-19 12:30:00
+current jobs : Starup...
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-17 09:00:00
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-17 09:00:00
+2	 valid : 1	 enable : 1	 repeated : 1
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-17 09:00:00
+2	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 23:59:59
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-17 09:00:00
+2	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 23:59:59
+3	 valid : 1	 enable : 1	 repeated : 1
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-17 09:00:00
+2	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 23:59:59
+3	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 22:22:22
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-17 09:00:00
+2	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 23:59:59
+3	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 22:22:22
+4	 valid : 1	 enable : 1	 repeated : 1
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-17 09:00:00
+2	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 23:59:59
+3	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 22:22:22
+4	 valid : 1	 enable : 1	 repeated : 1
+5	 valid : 1Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-17 09:00:00
+2	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 23:59:59
+3	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 22:22:22
+4	 valid : 1	 enable : 1	 repeated : 1
+5	 valid : 1	 enable : 1	 repeated : 0
+First timepoint : 2022-07-16 14:00:00
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-17 09:00:00
+2	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 23:59:59
+3	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 22:22:22
+4	 valid : 1	 enable : 1	 repeated : 1
+5	 valid : 1	 enable : 1	 repeated : 0
+First timepoint : 2022-07-16 14:00:00
+in job : 2022-07-19 12:30:00
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-17 09:00:00
+2	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 23:59:59
+3	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 22:22:22
+4	 valid : 1	 enable : 1	 repeated : 1
+5	 valid : 1	 enable : 1	 repeated : 0
+First timepoint : 2022-07-16 14:00:00
+in job : 2022-07-19 12:30:00
+current jobs : Starup...
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+Starup...
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+Starup...
+1	 valid : 1	 enable : 1	 repeated : 1
+2	 valid : 1	 enable : 1	 repeated : 1
+First timepoint : 2022-07-16 23:59:59
+3	 valid : 1	 enable : 1	 repeated : 1
+4	 valid : 1First timepoint : 2022-07-16 22:22:22
+5	 valid : First timepoint : 2022-07-16 14:00:00
+in job : 2022-07-19 12:30:00
+current jobs : 2022-07-15 14:04:062022-07-15 14:04:06Starup...
+2022-07-15 14:04:061	 valid : 1	 enable : 1	 repeated : 1
+2022-07-15 14:04:06First timepoint : 2022-07-17 09:00:00
+2022-07-15 14:04:062	 valid : 1	 enable : 1	 repeated : 1
+2022-07-15 14:04:07First timepoint : 2022-07-16 23:59:59
+2022-07-15 14:04:073	 valid : 1	 enable : 1	 repeated : 1
+2022-07-15 14:04:07First timepoint : 2022-07-16 22:22:22
+2022-07-15 14:04:074	 valid : 1	 enable : 1	 repeated : 1
+2022-07-15 14:04:07First timepoint : 2022-07-16 14:00:00
+2022-07-15 14:04:075	 valid : 1	 enable : 1	 repeated : 0
+2022-07-15 14:04:07in job : 2022-07-19 12:30:00
+2022-07-15 14:04:07current jobs : 2022-07-15 13:59:00First timepoint : 2022-07-16 14:00:00
+2022-07-15 13:59:00System time changed, restartup scheduler : 2022-07-15 13:59:00
+2022-07-15 13:59:00in job : 2022-07-16 14:00:00
+2022-07-15 13:59:00in job : 2022-07-19 12:30:00
+2022-07-15 13:59:00current jobs : 2022-07-15 13:59:00First timepoint : 2022-07-16 14:00:00
+2022-07-15 13:59:00First timepoint : 2022-07-16 14:00:00
+2022-07-15 13:59:00System time changed, restartup scheduler : 2022-07-15 13:59:00
+2022-07-15 13:59:00in job : 2022-07-16 14:00:00
+2022-07-15 13:59:00in job : 2022-07-19 12:30:00
+2022-07-15 13:59:00current jobs : 2022-07-15 13:59:00First timepoint : 2022-07-16 14:00:00
+2022-07-15 13:59:322022-07-15 13:59:32Starup...
+2022-07-15 13:59:321	 valid : 1	 enable : 1	 repeated : 1
+2022-07-15 13:59:32First timepoint : 2022-07-17 09:00:00
+2022-07-15 13:59:322	 valid : 2022-07-15 13:59:32First timepoint : 2022-07-17 09:00:00
+2022-07-15 13:59:32First timepoint : 2022-07-16 23:59:59
+2022-07-15 13:59:323	 valid : 1	 enable : 1	 repeated : 1
+2022-07-15 13:59:32First timepoint : 2022-07-16 22:22:22
+2022-07-15 13:59:324	 valid : 1	 enable : 1	 repeated : 1
+2022-07-15 13:59:32in job : 2022-07-15 14:00:00
+2022-07-15 13:59:32First timepoint : 2022-07-15 14:00:00
+2022-07-15 13:59:325	 valid : 1	 enable : 1	 repeated : 0
+2022-07-15 13:59:32in job : 2022-07-19 12:30:00
+2022-07-15 13:59:32current jobs : 2022-07-15 13:59:432022-07-15 13:59:43Starup...
+2022-07-15 13:59:431	 valid : 1	 enable : 1	 repeated : 1
+2022-07-15 13:59:43First timepoint : 2022-07-17 09:00:00
+2022-07-15 13:59:432	 valid : 1	 enable : 1	 repeated : 1
+2022-07-15 13:59:43First timepoint : 2022-07-16 23:59:59
+2022-07-15 13:59:433	 valid : 1	 enable : 1	 repeated : 1
+2022-07-15 13:59:43First timepoint : 2022-07-16 22:22:22
+2022-07-15 13:59:434	 valid : 1	 enable : 1	 repeated : 1
+2022-07-15 13:59:43in job : 2022-07-15 14:00:00
+2022-07-15 13:59:435	 valid : 2022-07-15 13:59:43First timepoint : 2022-07-15 14:00:00
+2022-07-15 13:59:43in job : 2022-07-19 12:30:00
+2022-07-15 13:59:43current jobs : [2022-07-15 13:59:54][2022-07-15 13:59:54]Starup...
+[2022-07-15 13:59:54]1	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:59:54]First timepoint : 2022-07-17 09:00:00
+[2022-07-15 13:59:54]2	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:59:54]First timepoint : 2022-07-16 23:59:59
+[2022-07-15 13:59:54]3	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:59:54]First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:59:54]4	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:59:54]in job : 2022-07-15 14:00:00
+[2022-07-15 13:59:54]5	 valid : [2022-07-15 13:59:54]First timepoint : 2022-07-15 14:00:00
+[2022-07-15 13:59:54]in job : 2022-07-19 12:30:00
+[2022-07-15 13:59:54]current jobs : [2022-07-15 14:00:00]First timepoint : 2022-07-15 14:00:00
+[2022-07-15 14:00:00]name : Job-4: Every day at 14:00:00 from 2022-07-15
+[2022-07-15 13:59:00]First timepoint : 2022-07-16 14:00:00
+[2022-07-15 13:59:00]System time changed, restartup scheduler : 2022-07-15 13:59:00
+[2022-07-15 13:59:00]in job : 2022-07-16 14:00:00
+[2022-07-15 13:59:00]in job : 2022-07-19 12:30:00
+[2022-07-15 13:59:00]current jobs : [2022-07-15 13:59:00]First timepoint : 2022-07-16 14:00:00
+[2022-07-15 13:59:00]First timepoint : 2022-07-16 14:00:00
+[2022-07-15 13:59:00]System time changed, restartup scheduler : 2022-07-15 13:59:00
+[2022-07-15 13:59:00]in job : 2022-07-16 14:00:00
+[2022-07-15 13:59:00]in job : 2022-07-19 12:30:00
+[2022-07-15 13:59:00]current jobs : [2022-07-15 13:59:00]First timepoint : 2022-07-16 14:00:00
+[2022-07-15 13:59:41][2022-07-15 13:59:44]Starup...
+[2022-07-15 13:59:44]1	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:59:44]First timepoint : 2022-07-17 09:00:00
+[2022-07-15 13:59:44]2	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:59:44]First timepoint : 2022-07-16 23:59:59
+[2022-07-15 13:59:44]3	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:59:44]First timepoint : 2022-07-16 22:22:22
+[2022-07-15 13:59:44]4	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 13:59:44]in job : 2022-07-15 14:00:00
+[2022-07-15 13:59:44]5	 valid : [2022-07-15 13:59:44]First timepoint : 2022-07-15 14:00:00
+[2022-07-15 13:59:44]in job : 2022-07-19 12:30:00
+[2022-07-15 13:59:44]current jobs : [2022-07-15 14:00:00]First timepoint : 2022-07-15 14:00:00
+[2022-07-15 14:00:00]name : Job-4: Every day at 14:00:00 from 2022-07-15
+[2022-07-15 14:00:09][2022-07-15 14:00:09]Starup...
+[2022-07-15 14:00:09]1	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 14:00:09]First timepoint : 2022-07-17 09:00:00
+[2022-07-15 14:00:09]2	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 14:00:09]First timepoint : 2022-07-16 23:59:59
+[2022-07-15 14:00:09]3	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 14:00:09]First timepoint : 2022-07-16 22:22:22
+[2022-07-15 14:00:09]4	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 14:00:09]5	 valid : [2022-07-15 14:00:09]First timepoint : 2022-07-16 14:00:00
+[2022-07-15 14:00:09]in job : 2022-07-19 12:30:00
+[2022-07-15 14:00:09]current jobs : [2022-07-15 13:59:00]First timepoint : 2022-07-16 14:00:00
+[2022-07-15 13:59:07]System time changed, restartup scheduler : 2022-07-15 13:59:00
+[2022-07-15 13:59:25]in job : 2022-07-16 14:00:00
+[2022-07-15 14:02:12][2022-07-15 14:02:12]Starup...
+[2022-07-15 14:02:12]1	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 14:02:12]First timepoint : 2022-07-17 09:00:00
+[2022-07-15 14:02:12]2	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 14:02:12]First timepoint : 2022-07-16 23:59:59
+[2022-07-15 14:02:12]3	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 14:02:12]First timepoint : 2022-07-16 22:22:22
+[2022-07-15 14:02:12]4	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 14:02:12]First timepoint : 2022-07-16 14:00:00
+[2022-07-15 14:02:15]5	 valid : 1	 enable : 1	 repeated : 0
+[2022-07-15 14:02:15]in job : 2022-07-19 12:30:00
+[2022-07-15 14:02:15]current jobs : [2022-07-15 13:59:00]First timepoint : 2022-07-16 14:00:00
+[2022-07-15 13:59:00]System time changed, restartup scheduler : 2022-07-15 13:59:00
+[2022-07-15 13:59:00]in job : 2022-07-15 14:00:00
+[2022-07-15 13:59:00]First timepoint : 2022-07-15 14:00:00
+[2022-07-15 13:59:00]in job : 2022-07-19 12:30:00
+[2022-07-15 13:59:00]current jobs : [2022-07-15 13:59:00]First timepoint : 2022-07-15 14:00:00
+[2022-07-15 13:59:00]First timepoint : 2022-07-15 14:00:00
+[2022-07-15 13:59:00]System time changed, restartup scheduler : 2022-07-15 13:59:00
+[2022-07-15 13:59:00]in job : 2022-07-15 14:00:00
+[2022-07-15 13:59:00]First timepoint : 2022-07-15 14:00:00
+[2022-07-15 13:59:00]in job : 2022-07-19 12:30:00
+[2022-07-15 13:59:00]current jobs : [2022-07-15 13:59:00]First timepoint : 2022-07-15 14:00:00
+[2022-07-15 14:00:00]First timepoint : 2022-07-15 14:00:00
+[2022-07-15 14:00:00]name : Job-4: Every day at 14:00:00 from 2022-07-15
+[2022-07-11 14:00:26]First timepoint : 2022-07-16 14:00:00
+[2022-07-11 14:00:26]System time changed, restartup scheduler : 2022-07-11 14:00:26
+[2022-07-11 14:00:26]in job : 2022-07-15 14:00:00
+[2022-07-11 14:00:26]First timepoint : 2022-07-12 09:00:00
+[2022-07-11 14:00:26]in job : 2022-07-19 12:30:00
+[2022-07-11 14:00:26]current jobs : [2022-07-11 14:00:26]First timepoint : 2022-07-12 09:00:00
+[2022-07-11 14:00:26]First timepoint : 2022-07-12 09:00:00
+[2022-07-11 14:00:26]System time changed, restartup scheduler : 2022-07-11 14:00:26
+[2022-07-11 14:00:26]First timepoint : 2022-07-12 09:00:00
+[2022-07-11 14:00:26]in job : 2022-07-15 14:00:00
+[2022-07-11 14:00:26]in job : 2022-07-19 12:30:00
+[2022-07-11 14:00:26]First timepoint : 2022-07-12 09:00:00
+[2022-07-11 14:00:26]current jobs : [2022-07-13 14:00:48]First timepoint : 2022-07-12 09:00:00
+[2022-07-13 14:00:48]System time changed, restartup scheduler : 2022-07-13 14:00:48
+[2022-07-13 14:00:48]name : Job-1: Mon, Tue, Wed, Fri, Sun of weekly at 09:00:00
+[2022-07-13 14:00:48]in job : 2022-07-15 14:00:00
+[2022-07-13 14:00:48]First timepoint : 2022-07-14 22:22:22
+[2022-07-13 14:00:48]in job : 2022-07-19 12:30:00
+[2022-07-13 14:00:48]current jobs : [2022-07-13 14:00:48]First timepoint : 2022-07-14 22:22:22
+[2022-07-13 14:00:48]System time changed, restartup scheduler : 2022-07-13 14:00:48
+[2022-07-13 14:00:48]First timepoint : 2022-07-14 22:22:22
+[2022-07-13 14:00:48]in job : 2022-07-15 14:00:00
+[2022-07-13 14:00:48]First timepoint : 2022-07-14 22:22:22
+[2022-07-13 14:00:48]in job : 2022-07-19 12:30:00
+[2022-07-13 14:00:48]current jobs : [2022-07-13 14:00:48]First timepoint : 2022-07-14 22:22:22
+[2022-07-13 14:01:59][2022-07-13 14:01:59]Starup...
+[2022-07-13 14:01:59]1	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-13 14:01:59]First timepoint : 2022-07-15 09:00:00
+[2022-07-13 14:01:59]2	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-13 14:01:59]First timepoint : 2022-07-14 23:59:59
+[2022-07-13 14:01:59]3	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-13 14:01:59]First timepoint : 2022-07-14 22:22:22
+[2022-07-13 14:01:59]4	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-13 14:01:59]in job : 2022-07-15 14:00:00
+[2022-07-13 14:01:59]5	 valid : [2022-07-13 14:01:59]First timepoint : 2022-07-14 22:22:22
+[2022-07-13 14:01:59]in job : 2022-07-19 12:30:00
+[2022-07-13 14:01:59]current jobs : [2022-07-14 13:59:50]First timepoint : 2022-07-14 22:22:22
+[2022-07-14 13:59:50]System time changed, restartup scheduler : 2022-07-14 13:59:50
+[2022-07-14 13:59:50]First timepoint : 2022-07-14 22:22:22
+[2022-07-14 13:59:50]in job : 2022-07-15 14:00:00
+[2022-07-14 13:59:50]First timepoint : 2022-07-14 22:22:22
+[2022-07-14 13:59:50]in job : 2022-07-19 12:30:00
+[2022-07-14 13:59:50]current jobs : [2022-07-14 13:59:50]First timepoint : 2022-07-14 22:22:22
+[2022-07-14 13:59:50]First timepoint : 2022-07-14 22:22:22
+[2022-07-14 13:59:50]System time changed, restartup scheduler : 2022-07-14 13:59:50
+[2022-07-14 13:59:50]First timepoint : 2022-07-14 22:22:22[2022-07-14 13:59:50]in job : 2022-07-15 14:00:00
+[2022-07-14 13:59:50]First timepoint : 2022-07-14 22:22:22
+[2022-07-14 13:59:50]in job : 2022-07-19 12:30:00
+[2022-07-14 13:59:50]current jobs : [2022-07-14 13:59:50]First timepoint : 2022-07-14 22:22:22
+[2022-07-14 14:00:07][2022-07-14 14:00:07]Starup...
+[2022-07-14 14:00:07]1	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-14 14:00:07]Net job triggled  timepoint : 2022-07-15 09:00:00
+[2022-07-14 14:00:07]2	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-14 14:00:07]Net job triggled  timepoint : 2022-07-14 23:59:59
+[2022-07-14 14:00:07]3	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-14 14:00:07]Net job triggled  timepoint : 2022-07-14 22:22:22
+[2022-07-14 14:00:07]4	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-14 14:00:07]5	 valid : [2022-07-14 14:00:07]Net job triggled  timepoint : 2022-07-14 22:22:22
+[2022-07-14 14:00:07]current jobs : [2022-07-15 14:00:14]Net job triggled  timepoint : 2022-07-14 22:22:22
+[2022-07-15 14:00:14]System time changed, restartup scheduler : 2022-07-15 14:00:14
+[2022-07-15 14:00:14]name : Job-3: Thu, Sta of weekly at 22:22:22
+[2022-07-15 14:00:14]name : Job-2: Thu, Sta of weekly at 23:59:59
+[2022-07-15 14:00:14]name : Job-1: Mon, Tue, Wed, Fri, Sun of weekly at 09:00:00
+[2022-07-15 14:00:14]name : Job-4: Every day at 14:00:00 from 2022-07-15
+[2022-07-15 14:00:14]Net job triggled  timepoint : 2022-07-16 22:22:22
+[2022-07-15 14:00:14]current jobs : [2022-07-15 14:00:14]Net job triggled  timepoint : 2022-07-16 14:00:00
+[2022-07-15 14:00:14]System time changed, restartup scheduler : 2022-07-15 14:00:14
+[2022-07-15 14:00:14]Net job triggled  timepoint : 2022-07-16 14:00:00
+[2022-07-15 14:00:14]Net job triggled  timepoint : 2022-07-16 14:00:00
+[2022-07-15 14:00:14]current jobs : [2022-07-15 14:01:41][2022-07-15 14:01:41]Starup...
+[2022-07-15 14:01:41]1	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 14:01:41]Net job triggled  timepoint : 2022-07-17 09:00:00
+[2022-07-15 14:01:41]2	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 14:01:41]Net job triggled  timepoint : 2022-07-16 23:59:59
+[2022-07-15 14:01:41]3	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 14:01:41]Net job triggled  timepoint : 2022-07-16 22:22:22
+[2022-07-15 14:01:41]4	 valid : 1	 enable : 1	 repeated : 1
+[2022-07-15 14:01:41]5	 valid : [2022-07-15 14:01:41]Net job triggled  timepoint : 2022-07-16 14:00:00
+[2022-07-15 14:01:41]current jobs : [2022-07-15 13:59:50]Net job triggled  timepoint : 2022-07-16 14:00:00
+[2022-07-15 13:59:50]System time changed, restartup scheduler : 2022-07-15 13:59:50
+[2022-07-15 13:59:50]Net job triggled  timepoint : 2022-07-15 14:00:00
+[2022-07-15 13:59:50]Net job triggled  timepoint : 2022-07-15 14:00:00
+[2022-07-15 13:59:50]Net job triggled  timepoint : 2022-07-15 14:00:00
+[2022-07-15 13:59:50]Net job triggled  timepoint : 2022-07-15 14:00:00
+[2022-07-15 13:59:50]Net job triggled  timepoint : 2022-07-15 14:00:00
+[2022-07-15 13:59:50]current jobs : [2022-07-15 13:59:50]Net job triggled  timepoint : 2022-07-15 14:00:00
+[2022-07-15 13:59:50]System time changed, restartup scheduler : 2022-07-15 13:59:50
+[2022-07-15 13:59:50]Net job triggled  timepoint : 2022-07-15 14:00:00
+[2022-07-15 13:59:50]Net job triggled  timepoint : 2022-07-15 14:00:00
+[2022-07-15 13:59:50]Net job triggled  timepoint : 2022-07-15 14:00:00
+[2022-07-15 13:59:50]Net job triggled  timepoint : 2022-07-15 14:00:00
+[2022-07-15 13:59:50]Net job triggled  timepoint : 2022-07-15 14:00:00
+[2022-07-15 13:59:50]current jobs : 5
+[2022-07-15 14:00:00]Net job triggled  timepoint : 2022-07-15 14:00:00
+[2022-07-15 14:00:00]name : Job-4: Every day at 14:00:00 from 2022-07-15
+[2022-07-16 00:00:00]Net job triggled  timepoint : 2022-07-16 14:00:00
+[2022-07-16 00:00:00]System time changed, restartup scheduler : 2022-07-16 00:00:00
+[2022-07-16 00:00:00]current jobs : [2022-07-16 00:00:00]Net job triggled  timepoint : 2022-07-16 14:00:00
+[2022-07-16 00:00:00]Net job triggled  timepoint : 2022-07-16 14:00:00
+[2022-07-16 00:00:00]System time changed, restartup scheduler : 2022-07-16 00:00:00
+[2022-07-16 00:00:00]Net job triggled  timepoint : 2022-07-16 14:00:00
+[2022-07-16 00:00:00]Net job triggled  timepoint : 2022-07-16 14:00:00
+[2022-07-16 00:00:00]current jobs : [2022-07-17 00:00:36]Net job triggled  timepoint : 2022-07-16 14:00:00
+[2022-07-17 00:00:36]System time changed, restartup scheduler : 2022-07-17 00:00:36
+[2022-07-17 00:00:36]name : Job-4: Every day at 14:00:00 from 2022-07-15
+[2022-07-17 00:00:36]name : Job-3: Thu, Sta of weekly at 22:22:22
+[2022-07-17 00:00:36]name : Job-2: Thu, Sta of weekly at 23:59:59
+[2022-07-17 00:00:36]current jobs : [2022-07-17 00:00:36]Net job triggled  timepoint : 2022-07-17 09:00:00
+[2022-07-17 00:00:36]Net job triggled  timepoint : 2022-07-17 09:00:00
+[2022-07-17 00:00:36]System time changed, restartup scheduler : 2022-07-17 00:00:36
+[2022-07-17 00:00:36]current jobs : [2022-07-17 00:00:36]Net job triggled  timepoint : 2022-07-17 09:00:00
+[2022-07-15 00:01:26]Net job triggled  timepoint : 2022-07-17 09:00:00
+[2022-07-15 00:01:26]System time changed, restartup scheduler : 2022-07-15 00:01:26
+[2022-07-15 00:01:26]current jobs : [2022-07-15 00:01:26]Net job triggled  timepoint : 2022-07-15 09:00:00
+[2022-07-15 00:01:26]Net job triggled  timepoint : 2022-07-15 09:00:00
+[2022-07-15 00:01:26]System time changed, restartup scheduler : 2022-07-15 00:01:26
+[2022-07-15 00:01:26]current jobs : [2022-07-15 00:01:26]Net job triggled  timepoint : 2022-07-15 09:00:00
+[2022-07-15 09:00:00]Net job triggled  timepoint : 2022-07-15 09:00:00
+[2022-07-15 09:00:00]System time changed, restartup scheduler : 2022-07-15 09:00:00
+[2022-07-15 09:00:00]name : Job-1: Mon, Tue, Wed, Fri, Sun of weekly at 09:00:00
+[2022-07-15 09:00:00]current jobs : [2022-07-15 09:00:00]Net job triggled  timepoint : 2022-07-15 14:00:00
+[2022-07-15 09:00:00]Net job triggled  timepoint : 2022-07-15 14:00:00
+[2022-07-15 09:00:00]System time changed, restartup scheduler : 2022-07-15 09:00:00
+[2022-07-15 09:00:00]current jobs : [2022-07-15 09:00:00]Net job triggled  timepoint : 2022-07-15 14:00:00
+[2022-07-15 08:59:50]Net job triggled  timepoint : 2022-07-15 14:00:00
+[2022-07-15 08:59:50]System time changed, restartup scheduler : 2022-07-15 08:59:50
+[2022-07-15 08:59:50]current jobs : [2022-07-15 08:59:50]Net job triggled  timepoint : 2022-07-15 09:00:00
+[2022-07-15 08:59:50]Net job triggled  timepoint : 2022-07-15 09:00:00
+[2022-07-15 08:59:50]System time changed, restartup scheduler : 2022-07-15 08:59:50
+[2022-07-15 08:59:50]current jobs : [2022-07-15 08:59:50]Net job triggled  timepoint : 2022-07-15 09:00:00
+[2022-07-15 09:00:00]Net job triggled  timepoint : 2022-07-15 09:00:00
+[2022-07-15 09:00:00]name : Job-1: Mon, Tue, Wed, Fri, Sun of weekly at 09:00:00
