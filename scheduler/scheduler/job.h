@@ -28,6 +28,7 @@ public:
     bool IsEnable() const { return _enable; }
     void Work() { _work(); }
 
+    virtual void ResetTriggledTime() {}
 protected:
     virtual bool IsExpired() = 0;
     virtual Clock::time_point CaculateTriggleTime() = 0;

@@ -21,6 +21,10 @@ public:
         return CaculateTriggleTime();
     }
 
+    void ResetTriggledTime() override
+    {
+        _valid = IsValidExpression(_expression);
+    }
 private:
 
     static bool IsValidExpression(const std::string& expr)
@@ -44,5 +48,5 @@ private:
         return cron::cron_next(cron::make_cron(_expression), Clock::now());
     }
 
-    std::string _expression;
+    const std::string _expression;
 };

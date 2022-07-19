@@ -139,7 +139,9 @@
     <ClInclude Include="in_job.h" />
     <ClInclude Include="job.h" />
     <ClInclude Include="job_scheduler.h" />
+    <ClInclude Include="logger.h" />
     <ClInclude Include="system_time_listener.h" />
+    <ClInclude Include="time_utils.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

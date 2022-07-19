@@ -1,5 +1,6 @@
 ﻿#include "job_scheduler.h"
-#include <iostream>
+#include "time_utils.h"
+#include "logger.h"
 
 JobScheduler::JobScheduler(int maxParallel)
     : _done(false)
@@ -18,14 +19,29 @@ void JobScheduler::Startup()
 
 void JobScheduler::Shutdown()
 {
+    _done.exchange(true);
     _done.store(true);
     _event.Wake();
     // wait traggled job continue working 
     if (_thread.joinable()) {
         _thread.join();
-        _done.store(false);
     }
     ClearAll();
+    _done.exchange(false);
+}
+
+void JobScheduler::ReStartup()
+{
+    const auto jobs = CopyJobs();
+
+    Shutdown();
+    Startup();
+
+    for (const auto& job : jobs) {
+        job->ResetTriggledTime();
+        Add(job);
+    }
+
 }
 
 void JobScheduler::Add(std::shared_ptr<Job> job)
@@ -89,8 +105,8 @@ void JobScheduler::ProcessJob()
             }
             else {
                 const auto tp = _jobs.begin()->first;
-                auto duration = std::chrono::duration_cast<std::chrono::seconds>(tp - std::chrono::system_clock::now());
-                std::cout << "duration : " << duration.count() << "\n";
+                const auto str = TimeTotm(tp.time_since_epoch().count());
+                LOG << "Net job triggled  timepoint : " << str << "\n";
                 
                 _event.WaitUntil(tp);
             }

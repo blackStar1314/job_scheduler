@@ -1,6 +1,7 @@
 ﻿#pragma once
 #include "job.h"
 #include "croncpp.h"
+#include "logger.h"
 
 class InJob : public Job
 {
@@ -8,6 +9,7 @@ public:
     explicit InJob(const std::string& id, const std::string& time, Function&& work, bool repeated = false)
         : Job(id, work, repeated)
         , _triggledTime(Clock::time_point(Clock::duration(0)))
+        , _timeStr(time)
     {
         _valid = FormatTimePoint(time);
     }
@@ -17,6 +19,10 @@ public:
         return CaculateTriggleTime();
     }
 
+    void ResetTriggledTime() override
+    {
+        _valid = FormatTimePoint(_timeStr);
+    }
 protected:
 
     bool FormatTimePoint(const std::string time)
@@ -48,8 +54,8 @@ protected:
             }
             return _triggledTime;
         }
-        //return !IsExpired() ? _triggledTime : (IsRepeated() ? _triggledTime += 24h : _triggledTime);
     }
 
+    const std::string _timeStr;
     Clock::time_point _triggledTime;
 };
