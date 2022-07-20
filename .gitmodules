@@ -1,3 +1,6 @@
 [submodule "croncpp"]
 	path = croncpp
 	url = git@github.com:mariusbancila/croncpp.git
+[submodule "plog"]
+	path = plog
+	url = git@github.com:SergiusTheBest/plog.git
