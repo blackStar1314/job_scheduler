@@ -137,6 +137,7 @@
     <ClInclude Include="event.h" />
     <ClInclude Include="every_job.h" />
     <ClInclude Include="in_job.h" />
+    <ClInclude Include="in_rang_job.h" />
     <ClInclude Include="job.h" />
     <ClInclude Include="job_scheduler.h" />
     <ClInclude Include="logger.h" />
