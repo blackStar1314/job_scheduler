@@ -9,13 +9,13 @@
 
 static void OnTraggled(const std::string& name)
 {
-    LOG << "name : " << name << "\n";
+    LOGS << "name : " << name << "\n";
 }
 
 
 static void PrintJob(std::shared_ptr<Job> job)
 {
-    LOG << job->GetId() << "\t"
+    LOGS << job->GetId() << "\t"
         << " valid : " << job->IsValid() << "\t"
         << " enable : " << job->IsEnable() << "\t"
         << " repeated : " << job->IsRepeated() << "\n";
@@ -23,14 +23,17 @@ static void PrintJob(std::shared_ptr<Job> job)
 
 int main()
 {
-    Logger::Instance().InitLogger("./scheduler.log");
-    LOG << "Starup...\n";
+    static plog::RollingFileAppender<plog::TxtFormatter> fileAppender("./scheduer.log");
+    static plog::ColorConsoleAppender<plog::TxtFormatter> consoleAppender;
+    plog::init<0>(plog::debug, &fileAppender).addAppender(&consoleAppender);
+
+    LOGS << "Starup...\n";
     JobScheduler scheduler1(1), scheduler2(1);
     auto notification = [&scheduler1]() {
-        LOG << "System time changed, restartup scheduler : " << TimeTotm(std::chrono::system_clock::now().time_since_epoch().count()) << "\n";
+        LOGS << "System time changed, restartup scheduler : " << TimeTotm(std::chrono::system_clock::now().time_since_epoch().count()) << "\n";
 
         scheduler1.ReStartup();
-        LOG << "current jobs : " << scheduler1.Jobs() << "\n";
+        LOGS << "current jobs : " << scheduler1.Jobs() << "\n";
     };
     SystemTimeListener::Instance().SetNotification(notification);
     SystemTimeListener::Instance().Start();
@@ -67,7 +70,20 @@ int main()
         scheduler1.Add(job);
     }
 
-    LOG << "current jobs : " << scheduler1.Jobs() << "\n";
+    std::vector<std::string> times;
+    times.push_back("2022-07-14 12:30:00");
+    times.push_back("2022-07-19 20:20:00");
+    times.push_back("2022-07-19 20:11:00");
+    times.push_back("2022-07-20 12:30:00");
+    times.push_back("2022-07-22 12:00:00");
+    times.push_back("2022-07-21 09:30:00");
+    job = JobScheduler::At(times, "6", OnTraggled, "Job-6:  some days, only run once");
+    if (job) {
+        PrintJob(job);
+        scheduler1.Add(job);
+    }
+
+    LOGS << "current jobs : " << scheduler1.Jobs() << "\n";
     while (true)
     {
         std::this_thread::sleep_for(std::chrono::seconds(10));

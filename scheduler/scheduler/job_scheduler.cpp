@@ -106,7 +106,7 @@ void JobScheduler::ProcessJob()
             else {
                 const auto tp = _jobs.begin()->first;
                 const auto str = TimeTotm(tp.time_since_epoch().count());
-                LOG << "Net job triggled  timepoint : " << str << "\n";
+                LOGS << "Next job triggled  timepoint : " << str << "\n";
                 
                 _event.WaitUntil(tp);
             }

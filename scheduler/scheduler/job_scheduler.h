@@ -5,6 +5,7 @@
 #include "cron_job.h"
 #include "in_job.h"
 #include "every_job.h"
+#include "in_rang_job.h"
 #include "event.h"
 
 class JobScheduler
@@ -22,6 +23,20 @@ public:
         auto job = std::make_shared<InJob>(id, time, fn);
         if (!job->IsValid()) {
             job.reset();
+        }
+        return job;
+    }
+
+    template<typename Callable, typename... Args>
+    static std::shared_ptr<Job> At(std::vector<std::string>& times, const std::string& id, Callable&& f, Args &&... args)
+    {
+        auto fn = std::bind(std::forward<Callable>(f), std::forward<Args>(args)...);
+        auto job = std::make_shared<InRangeJob>(id, fn);
+        if (!job->IsValid()) {
+            job.reset();
+        }
+        else {
+            job->Push(times);
         }
         return job;
     }

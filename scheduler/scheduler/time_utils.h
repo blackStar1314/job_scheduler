@@ -1,8 +1,6 @@
 ﻿#pragma once
-#include "croncpp.h"
+#include <croncpp.h>
 #include <iostream>
-
-#define LOG_DEBUG std::cout << PrintTime()
 
 static std::string Time()
 {
