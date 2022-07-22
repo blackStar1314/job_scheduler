@@ -7,7 +7,7 @@
 class InRangeJob : public Job
 {
 public:
-    InRangeJob(const std::string& id, Function&& work, bool once = false)
+    InRangeJob(const std::string& id, Function&& work, bool once = true)
         : Job(id, work, true)
         , _once(once)
     {}
