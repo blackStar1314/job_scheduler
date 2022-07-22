@@ -7,9 +7,8 @@
 class InRangeJob : public Job
 {
 public:
-    InRangeJob(const std::string& id, Function&& work, bool once = true)
+    InRangeJob(const std::string& id, Function&& work)
         : Job(id, work, true)
-        , _once(once)
     {}
 
     void Push(const std::vector<std::string>& times)
@@ -26,6 +25,11 @@ public:
 
     void ResetTriggledTime() override
     {
+        decltype(_triggleTimes) copy;
+        copy.swap(_triggleTimes);
+        for (const auto& item : copy) {
+            _triggleTimes.emplace(FormatTimePoint(item.second), item.second);
+        }
     }
 
 protected:
@@ -37,24 +41,12 @@ protected:
 
     Clock::time_point CaculateTriggleTime() override
     {
-        decltype(_triggleTimes)::iterator first = _triggleTimes.begin();
-        if (!_once) {
-            first = std::find_if(_triggleTimes.begin(), _triggleTimes.end(),
-                [](const decltype(_triggleTimes)::value_type& e) {
-                    return e.first >= Clock::now();
-                });
-            if (first == _triggleTimes.end()) {
-                first = _triggleTimes.begin();
-            }
-        }
-        else {
-            auto removeEndIter = _triggleTimes.upper_bound(Clock::now());
-            _triggleTimes.erase(_triggleTimes.begin(), removeEndIter);
-            first = _triggleTimes.begin();
-        }
-
+        auto removeEndIter = _triggleTimes.upper_bound(Clock::now());
+        _triggleTimes.erase(_triggleTimes.begin(), removeEndIter);
+        auto first = _triggleTimes.begin();
         if (first == _triggleTimes.end()) {
-            if (_once) _repeated = false;
+            _valid = false;
+            _repeated = false;
             return Clock::time_point(Clock::duration(0));
         }
 
@@ -68,7 +60,7 @@ protected:
         auto tm = cron::utils::to_tm(time);
         return Clock::from_time_t(cron::utils::tm_to_time(tm));
     }
+    
 private:
-    bool _once;
     std::multimap<Clock::time_point, std::string> _triggleTimes;
 };
